@@ -1,0 +1,6 @@
+{
+  "name": "Logomaker Studio AI",
+  "description": "Crie logos profissionais para sua empresa a partir de descrições, com visualização animada e exportação em alta resolução para redes sociais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
